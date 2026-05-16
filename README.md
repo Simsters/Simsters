@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Simsters
-- 👀 I’m interested in CyberSecurity Analyst
-- 🌱 I’m currently learning Aws Cloud Computing
-- 💞️ I’m looking to collaborate Cloud Computing Beginners
+- 👋 Hi, I’m sumaira
+- 👀 I’m Ai Automation Architect
+- 🌱 Always learning Tech
+- 💞️ I’m looking to collaborate Automation seniors
+- 🔥 Focusing eCommerce Businesses
 - 📫 How to reach me @Simsters    
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can HACK you! 
